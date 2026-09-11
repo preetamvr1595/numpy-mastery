@@ -25,3 +25,4 @@ pip install numpy jupyter
 ## Author
 
 [Preetham](https://github.com/preetamvr1595) — MCA student, building a complete data science learning path from the ground 
+
