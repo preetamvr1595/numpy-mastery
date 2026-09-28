@@ -66,3 +66,5 @@ pip install numpy jupyter pandas scikit-learn matplotlib seaborn
 ## Author
 
 [Preetham](https://github.com/preetamvr1595) — MCA student, building a complete data science learning path from the ground up
+
+<!-- Last updated: 2026-09-28 -->
